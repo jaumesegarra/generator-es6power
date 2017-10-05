@@ -19,7 +19,7 @@ You need to have node, grunt, yo and bower installed globally before running the
 `npm install -g yo grunt bower`
 
 ### Scaffold an application
-Scaffolding a NWW application works like every other Yeoman generator. If you have the generator installed, cd to an empty project directory and run:
+Scaffolding a ES6 application works like every other Yeoman generator. If you have the generator installed, cd to an empty project directory and run:
 
 `yo es6power`
 
