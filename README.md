@@ -16,7 +16,7 @@ To install the generator:
 
 You need to have node, grunt, yo and bower installed globally before running the command. Therefore download node from the link and run:
 
-`npm install -g yo grunt bower`
+`npm install -g yo gulp`
 
 ### Scaffold an application
 Scaffolding a ES6 application works like every other Yeoman generator. If you have the generator installed, cd to an empty project directory and run:
