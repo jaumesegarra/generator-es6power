@@ -1,3 +1,3 @@
 export function start() {
-	alert('ES6 imports works fine!');
+	console.log('ES6 imports works fine!');
 }
