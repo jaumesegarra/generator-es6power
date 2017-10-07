@@ -2,7 +2,7 @@ generator-es6power
 ================================
 >A ES6 (Babel) yeoman generator.
 
-This is a simple generator for convert ES6 files to ES6, also convert SASS files to CSS and reloads the browser page if there is any change.
+This is a simple generator for convert ES6 files to ES5, also convert SASS files to CSS and reloads the browser page if there is any change.
 
 ## Requirements
 * [Node](https://nodejs.org)
