@@ -4,9 +4,16 @@ generator-es6power
 
 This is a simple generator for convert ES6 files to ES5, also convert SASS files to CSS and reloads the browser page if there is any change.
 
-###### Languages | Other features:
+###### Languages:
+* ECMASCRIPT6 
+* SASS
+* [LODASH]
+* [JQUERY]
 
-`ECMASCRIPT6`  `SASS`  `[LODASH]`  `[JQUERY]` | `Browser live reload`  `Uglify`  `HTML minimify`
+###### Other features:
+* Browser live reload  
+* Uglify  
+* HTML minimify
 
 ## Requirements
 * [Node](https://nodejs.org)
